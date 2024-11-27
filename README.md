@@ -3,13 +3,20 @@ Welcome to the Linux Commands Reference repository! This collection is designed 
 📖 Contents
 The repository includes folders and files grouped by categories of Linux commands:
 
-File Management: Commands for creating, deleting, copying, and moving files.
-System Monitoring: Tools to monitor system performance, resource usage, and processes.
-Networking: Basic and advanced commands for managing networks and connections.
-Permissions: Managing file ownership and access control.
-Package Management: Installing, removing, and managing software packages.
-Disk Usage: Commands for analyzing disk space and managing partitions.
-Scripting Basics: Useful one-liners and examples for bash scripting.
+-----------------------------------------------------------------------------
+
+
+1 Navigate the file system : move through the filesystem and view the content of a file
+2 Manage file content in Bash : Commands for creating, deleting, copying, and moving files.
+3 Filter content: find files and context of files and filter
+4 Manage users and permissions : change users permission and groups
+5 Get help in Linux :  Find info about commands
+6 System Monitoring: Tools to monitor system performance, resource usage, and processes.
+7 Networking: Basic and advanced commands for managing networks and connections.
+8 Permissions: Managing file ownership and access control.
+9 Package Management: Installing, removing, and managing software packages.
+10 Disk Usage: Commands for analyzing disk space and managing partitions.
+11 Scripting Basics: Useful one-liners and examples for bash scripting.
 
 Learn and Test:
 Open the files to view command explanations and examples.
